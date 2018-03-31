@@ -201,8 +201,8 @@ hr {
     padding: 250px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/laptop.jpg) repeat center center fixed;
-    background-color: #fbf8f8;
+    background: url(../img/laptop.jpg) no-repeat center center fixed;
+    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
