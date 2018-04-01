@@ -601,6 +601,7 @@ img.img-thumbnail.team-img {
 
 #contact i.fa {
     font-size: 22px;
+    color: #e75926;
     margin-bottom: 10px;
 }
 
@@ -688,7 +689,7 @@ a:focus,
 #contact .social i.fa {
     font-size: 24px;
     padding-top: 8px;
-    color: #637AED;
+    color: #cf5022;
     border-radius: 4px;
     transition: all 0.3s;
 }
